@@ -6,7 +6,7 @@ Ini adalah repositori untuk proyek tugas besar mata kuliah Metode Numerik di UPe
 
 - [Projek Tugas Besar Metode Numerik](#kelompok7-iot-project)
     - [Table of contents](#table-of-contents)
-- [Main Project: Smart Incubator ](#main-project-smart-incubator-)
+- [Main Project: Newton Cotes Implementation ](#main-project-smart-incubator-)
     - [Problem Statement ](#problem-statement-)
     - [Our Solution ](#our-solution-)
     - [Use case diagram ](#use-case-diagram-)
