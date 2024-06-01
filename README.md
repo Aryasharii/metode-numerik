@@ -4,8 +4,7 @@ Ini adalah repositori untuk proyek tugas besar mata kuliah Metode Numerik di UPe
 
 ### Table of contents
 
-- [Kelompok7-IoT-Project](#kelompok7-iot-project)
-    - [Navigate this repo](#navigate-this-repo)
+- [Projek Tugas Besar Metode Numerik](#kelompok7-iot-project)
     - [Table of contents](#table-of-contents)
 - [Main Project: Smart Incubator ](#main-project-smart-incubator-)
     - [Problem Statement ](#problem-statement-)
