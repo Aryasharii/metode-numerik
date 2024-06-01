@@ -42,7 +42,10 @@ To compare the accuracy of calculating the area of West Java Province using the 
 ### Methodology <a name="hw"></a>
 
 The West Java province is divided into 4 regions. The area of each region was calculated using 9, 18, and 36 partitions with Python. The areas of all regions were then summed to approximate the total area. then the following formula was used:
+##### Simpson's 3/8 Rule Formula:
 ![Method](https://github.com/Aryasharii/metode-numerik/blob/UAS/Method/Screenshot%202024-06-01%20164643.png)
+<br/>
+##### Relative Error Formula:
 ![Method](https://github.com/Aryasharii/metode-numerik/blob/UAS/Method/Screenshot%202024-06-01%20164929.png)
 
 <br/>
