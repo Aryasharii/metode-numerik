@@ -2,20 +2,6 @@
 
 Ini adalah repositori untuk proyek tugas besar mata kuliah Metode Numerik di UPer.
 
-### Navigate this repo
-
-The list below stacks the most recently created folder at the top
-
-```
-master
-L IdleWasher_Flask_API_Server     - A folder for the code used in making the Flask web server for the project (Milestone 3)
-L IdleWasher_ESP8266_LightSensor  - A folder for code used in the ESP8266 reading & sending data to server (Milestone 3)
-L images        - A folder for storing the pics used in README.md files.
-L UML diagrams  - A folder for the UML models for the main project (Milestone 2.1)
-L Test Flask Server - A test Flask Web app for suggesting a content (Milestone 1.3)
-L Test              - A Python script to test collaborating on Github (Milestone 1.2)
-```
-
 ### Table of contents
 
 - [Kelompok7-IoT-Project](#kelompok7-iot-project)
